@@ -5,15 +5,15 @@
 <p align="left"> <img src="[https://komarev.com/ghpvc/](https://dribbble.com/shots/16787618-Typing-guy-animation-2d-character-animation-Gif-animation/attachments/11839393?mode=media)?username=harshithdr&label=Profile%20views&color=0e75b6&style=flat" alt="rakesh" /> </p>
 
 
-- 🌱 I’m currently doing my Masters in Data Science at Illinois Institute of Technology**
+- 🌱 I’m currently doing my Masters in Data Science at DePaul University**
 
-- 🌱 Interested in **Artificial intelligence, IoT and cybersecurity**
+- 🌱 Interested in **Data Analysis, Business Analysis and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HarshithDR](https://github.com/HarshithDR)
 
-- 💬 Ask me about **Python, IoT**
+- 💬 Ask me about **Data Science, Machine Learning**
 
-- 📫 How to reach me **harshithdr10@gmail.com**
+- 📫 How to reach me **raki.dr19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
