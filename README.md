@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rakesh Deshalli Ravi</h1>
-<h3 align="center">I am a dedicated data science student with a strong passion for exploring the world of data and technology. Currently pursuing my studies in data science, I am committed to harnessing the power of data to make informed decisions and solve real-world problems.</h3>
+<h3 align="center">I am a dedicated data science grad with a strong passion for exploring the world of data and technology. Currently graduated from MS in data science program, I am committed to harnessing the power of data to make informed decisions and solve real-world problems.</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 
-- 🌱 I’m currently doing my Masters in Data Science at DePaul University**
+- 🌱 I’m currently graduated as Masters in Data Science from DePaul University**
 
 - 🌱 Interested in **Data Analysis, Business Analysis and Machine Learning**
 
